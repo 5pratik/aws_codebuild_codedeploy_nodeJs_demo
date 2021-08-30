@@ -1,5 +1,5 @@
 
-# Installing the CodeDeploy agent on EC2
+# Installing the CodeDeploy agent on EC2 --yes
 ```
 Ubuntu:
 sudo apt-get update -y 
